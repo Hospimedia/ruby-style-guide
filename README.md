@@ -210,7 +210,7 @@ You can generate a PDF or an HTML copy of this guide using
 
 * Use RDoc and its conventions for API documentation.  Don't put an
   empty line between the comment block and the `def`.
-* Keep lines fewer than 80 characters.
+* Keep lines fewer than 150 characters.
 * Avoid trailing whitespace.
 
 ## Syntax
